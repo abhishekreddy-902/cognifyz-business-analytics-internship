@@ -23,7 +23,7 @@ savings objectives, information sources, and return expectations.
 
 ## 📊 Power BI Dashboard
 
-![Dashboard](Cognifyz_BA_Dashboard.png)
+![Dashboard](Cognifyz_%BA_%Dashboard.png)   
 
 ---
 
