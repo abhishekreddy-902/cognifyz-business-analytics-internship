@@ -30,12 +30,12 @@ with **24 variables** — completed all **10 assigned tasks** across
 ## 📁 Files in This Repository
 | File | Description |
 |------|-------------|
-| `Cognifyz_BA_Excel_Analysis.xlsx` | Excel analysis with pivot tables and charts |
-| `Cognifyz_BA_Analysis.ipynb` | Python Jupyter notebook with all 10 tasks |
-| `Cognifyz_BA_Dashboard.pbix` | Power BI interactive dashboard |
-| `Cognifyz_SQL_Analysis.sql` | MySQL queries for all tasks |
-| `Cognifyz_EDA_Report.docx` | Complete EDA report |
-| `Data_set_2_-_Copy.csv` | Original dataset |
+| `Cognifyz_BA_Excel_Analysis' | Excel analysis with pivot tables and charts |
+| `Cognifyz_BA_Analysis` | Python Jupyter notebook with all 10 tasks |
+| `Cognifyz_BA_Dashboard` | Power BI interactive dashboard |
+| `Cognifyz_SQL_Analysis` | MySQL queries for all tasks |
+| `Cognifyz_EDA_Report` | Complete EDA report |
+| `Data_set 2 - Copy` | Original dataset |
 
 ---
 
